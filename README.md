@@ -49,10 +49,15 @@ Email : nikita.bhalodiya3717@gmail.com
    1) **K-Means Clustering:**
       
       Reference link: https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/
-   3) **Hirarchical Clustering:**
+   2) **Hirarchical Clustering:**
       
       Reference Link: https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-c6e8243758ec
-5) FindOptimal Number of Cluster:
+
+   **3)  DBSCAN Clusterig:**
+
+        Reference Link: https://www.analyticsvidhya.com/blog/2020/09/how-dbscan-clustering-works/
+   
+6) FindOptimal Number of Cluster:
      **Elbow Method:**
    
       Reference Link: https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/
