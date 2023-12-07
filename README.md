@@ -57,7 +57,7 @@ Email : nikita.bhalodiya3717@gmail.com
 
          Reference Link: https://www.analyticsvidhya.com/blog/2020/09/how-dbscan-clustering-works/
    
-6) FindOptimal Number of Cluster:
+6) Find Optimal Number of Cluster:
      **Elbow Method:**
    
       Reference Link: https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/
