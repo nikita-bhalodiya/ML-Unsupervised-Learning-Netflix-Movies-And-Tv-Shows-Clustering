@@ -53,9 +53,9 @@ Email : nikita.bhalodiya3717@gmail.com
       
       Reference Link: https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-c6e8243758ec
 
-   **3)  DBSCAN Clusterig:**
+   3)  **DBSCAN Clusterig:**
 
-        Reference Link: https://www.analyticsvidhya.com/blog/2020/09/how-dbscan-clustering-works/
+         Reference Link: https://www.analyticsvidhya.com/blog/2020/09/how-dbscan-clustering-works/
    
 6) FindOptimal Number of Cluster:
      **Elbow Method:**
